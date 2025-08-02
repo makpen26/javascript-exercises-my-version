@@ -4,8 +4,9 @@ function addNumbers() {
 
   let result;
 
-  result = "a" + "b"; // <------ EDIT THIS LINE
-
+  result = a + b; // <------ EDIT THIS LINE
+  //before result was result = "a" + "b"; 
+  //this is a string concatenation outputting ab of type string
   return result;
 }
 
